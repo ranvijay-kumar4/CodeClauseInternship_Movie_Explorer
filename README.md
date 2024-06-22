@@ -20,3 +20,7 @@ Implement features like a search bar, movie categorization, and a movie detail p
 
 # Technologies-
 HTML, CSS, JavaScript
+
+
+# Deployed Link :
+https://ranvijay-kumar4.github.io/CodeClauseInternship_Movie_Explorer/
