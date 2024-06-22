@@ -1,0 +1,671 @@
+[
+    {
+        "title": "Dangal",
+        "genre": "Biography, Drama, Sport",
+        "director": "Nitesh Tiwari",
+        "releaseDate": "2016-12-23",
+        "rating": "8.4"
+    },
+    {
+        "title": "Bahubali: The Beginning",
+        "genre": "Action, Drama, Fantasy",
+        "director": "S.S. Rajamouli",
+        "releaseDate": "2015-07-10",
+        "rating": "8.0"
+    },
+    {
+        "title": "Bahubali: The Conclusion",
+        "genre": "Action, Drama",
+        "director": "S.S. Rajamouli",
+        "releaseDate": "2017-04-28",
+        "rating": "8.2"
+    },
+    {
+        "title": "3 Idiots",
+        "genre": "Comedy, Drama",
+        "director": "Rajkumar Hirani",
+        "releaseDate": "2009-12-25",
+        "rating": "8.4"
+    },
+    {
+        "title": "Lagaan: Once Upon a Time in India",
+        "genre": "Drama, Musical, Sport",
+        "director": "Ashutosh Gowariker",
+        "releaseDate": "2001-06-15",
+        "rating": "8.1"
+    },
+    {
+        "title": "Sholay",
+        "genre": "Action, Adventure, Comedy",
+        "director": "Ramesh Sippy",
+        "releaseDate": "1975-08-15",
+        "rating": "8.1"
+    },
+    {
+        "title": "Dilwale Dulhania Le Jayenge",
+        "genre": "Comedy, Drama, Musical",
+        "director": "Aditya Chopra",
+        "releaseDate": "1995-10-20",
+        "rating": "8.0"
+    },
+    {
+        "title": "Gangs of Wasseypur",
+        "genre": "Action, Comedy, Crime",
+        "director": "Anurag Kashyap",
+        "releaseDate": "2012-08-22",
+        "rating": "8.2"
+    },
+    {
+        "title": "Drishyam",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Nishikant Kamat",
+        "releaseDate": "2015-07-31",
+        "rating": "8.2"
+    },
+    {
+        "title": "Black Friday",
+        "genre": "Crime, Drama, History",
+        "director": "Anurag Kashyap",
+        "releaseDate": "2007-02-09",
+        "rating": "8.5"
+    },
+    {
+        "title": "Sacred Games",
+        "genre": "Action, Crime, Drama",
+        "director": "Anurag Kashyap, Vikramaditya Motwane",
+        "releaseDate": "2018-07-06",
+        "rating": "8.6"
+    },
+    {
+        "title": "Mirzapur",
+        "genre": "Action, Crime, Drama",
+        "director": "Karan Anshuman, Gurmeet Singh, Mihir Desai",
+        "releaseDate": "2018-11-16",
+        "rating": "8.5"
+    },
+    {
+        "title": "Paatal Lok",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Avinash Arun, Prosit Roy",
+        "releaseDate": "2020-05-15",
+        "rating": "7.8"
+    },
+    {
+        "title": "Breathe",
+        "genre": "Drama, Thriller",
+        "director": "Mayank Sharma",
+        "releaseDate": "2018-01-26",
+        "rating": "8.4"
+    },
+    {
+        "title": "The Family Man",
+        "genre": "Action, Comedy, Drama",
+        "director": "Krishna D.K., Raj Nidimoru",
+        "releaseDate": "2019-09-20",
+        "rating": "8.6"
+    },
+    {
+        "title": "Delhi Crime",
+        "genre": "Crime, Drama",
+        "director": "Richie Mehta",
+        "releaseDate": "2019-03-22",
+        "rating": "8.5"
+    },
+    {
+        "title": "Made in Heaven",
+        "genre": "Drama, Romance",
+        "director": "Zoya Akhtar, Nitya Mehra, Alankrita Shrivastava, Prashant Nair",
+        "releaseDate": "2019-03-08",
+        "rating": "8.3"
+    },
+    {
+        "title": "Aarya",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Ram Madhvani, Sandeep Modi, Vinod Rawat",
+        "releaseDate": "2020-06-19",
+        "rating": "7.9"
+    },
+    {
+        "title": "Panchayat",
+        "genre": "Comedy, Drama",
+        "director": "Deepak Kumar Mishra",
+        "releaseDate": "2020-04-03",
+        "rating": "8.8"
+    },
+    {
+        "title": "Asur: Welcome to Your Dark Side",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Oni Sen",
+        "releaseDate": "2020-03-02",
+        "rating": "8.5"
+    },
+    {
+        "title": "Bandish Bandits",
+        "genre": "Drama, Music, Romance",
+        "director": "Anand Tiwari",
+        "releaseDate": "2020-08-04",
+        "rating": "8.7"
+    },
+    {
+        "title": "Kota Factory",
+        "genre": "Comedy, Drama",
+        "director": "Raghav Subbu",
+        "releaseDate": "2019-04-16",
+        "rating": "9.0"
+    },
+    {
+        "title": "Special OPS",
+        "genre": "Action, Crime, Drama",
+        "director": "Neeraj Pandey, Shivam Nair",
+        "releaseDate": "2020-03-17",
+        "rating": "8.6"
+    },
+    {
+        "title": "Scam 1992: The Harshad Mehta Story",
+        "genre": "Biography, Crime, Drama",
+        "director": "Hansal Mehta, Jai Mehta",
+        "releaseDate": "2020-10-09",
+        "rating": "9.4"
+    },
+    {
+        "title": "M.S. Dhoni: The Untold Story",
+        "genre": "Biography, Drama, Sport",
+        "director": "Neeraj Pandey",
+        "releaseDate": "2016-09-30",
+        "rating": "7.9"
+    },
+    {
+        "title": "Article 15",
+        "genre": "Crime, Drama",
+        "director": "Anubhav Sinha",
+        "releaseDate": "2019-06-28",
+        "rating": "8.2"
+    },
+    {
+        "title": "Andhadhun",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Sriram Raghavan",
+        "releaseDate": "2018-10-05",
+        "rating": "8.3"
+    },
+    {
+        "title": "Tumbbad",
+        "genre": "Drama, Fantasy, Horror",
+        "director": "Rahi Anil Barve, Anand Gandhi, Adesh Prasad",
+        "releaseDate": "2018-10-12",
+        "rating": "8.3"
+    },
+    {
+        "title": "Queen",
+        "genre": "Adventure, Comedy, Drama",
+        "director": "Vikas Bahl",
+        "releaseDate": "2013-10-12",
+        "rating": "8.2"
+    },
+    {
+        "title": "Pink",
+        "genre": "Drama, Thriller",
+        "director": "Aniruddha Roy Chowdhury",
+        "releaseDate": "2016-09-16",
+        "rating": "8.1"
+    },
+    {
+        "title": "Gully Boy",
+        "genre": "Drama, Music",
+        "director": "Zoya Akhtar",
+        "releaseDate": "2019-02-14",
+        "rating": "8.0"
+    },
+    {
+        "title": "Newton",
+        "genre": "Drama",
+        "director": "Amit Masurkar",
+        "releaseDate": "2017-09-22",
+        "rating": "7.7"
+    },
+    {
+        "title": "Sardar Udham",
+        "genre": "Biography, Crime, Drama",
+        "director": "Shoojit Sircar",
+        "releaseDate": "2021-10-16",
+        "rating": "8.7"
+    },
+    {
+        "title": "Haider",
+        "genre": "Action, Crime, Drama",
+        "director": "Vishal Bhardwaj",
+        "releaseDate": "2014-10-02",
+        "rating": "8.0"
+    },
+    {
+        "title": "Barfi!",
+        "genre": "Comedy, Drama, Romance",
+        "director": "Anurag Basu",
+        "releaseDate": "2012-09-14",
+        "rating": "8.1"
+    },
+    {
+        "title": "PK",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "director": "Rajkumar Hirani",
+        "releaseDate": "2014-12-19",
+        "rating": "8.1"
+    },
+    {
+        "title": "My Name is Khan",
+        "genre": "Drama",
+        "director": "Karan Johar",
+        "releaseDate": "2010-02-12",
+        "rating": "8.0"
+    },
+    {
+        "title": "Swades",
+        "genre": "Drama",
+        "director": "Ashutosh Gowariker",
+        "releaseDate": "2004-12-17",
+        "rating": "8.2"
+    },
+    {
+        "title": "Udaan",
+        "genre": "Drama",
+        "director": "Vikramaditya Motwane",
+        "releaseDate": "2010-07-16",
+        "rating": "8.2"
+    },
+    {
+        "title": "Masaan",
+        "genre": "Drama",
+        "director": "Neeraj Ghaywan",
+        "releaseDate": "2015-07-24",
+        "rating": "8.1"
+    },
+    {
+        "title": "Chak De! India",
+        "genre": "Drama, Family, Sport",
+        "director": "Shimit Amin",
+        "releaseDate": "2007-08-10",
+        "rating": "8.2"
+    },
+    {
+        "title": "Taare Zameen Par",
+        "genre": "Drama, Family",
+        "director": "Aamir Khan, Amole Gupte",
+        "releaseDate": "2007-12-21",
+        "rating": "8.3"
+    },
+    {
+        "title": "Rang De Basanti",
+        "genre": "Comedy, Drama",
+        "director": "Rakeysh Omprakash Mehra",
+        "releaseDate": "2006-01-26",
+        "rating": "8.2"
+    },
+    {
+        "title": "Shershaah",
+        "genre": "Action, Biography, Drama",
+        "director": "Vishnuvardhan",
+        "releaseDate": "2021-08-12",
+        "rating": "8.4"
+    },
+    {
+        "title": "Zindagi Na Milegi Dobara",
+        "genre": "Comedy, Drama",
+        "director": "Zoya Akhtar",
+        "releaseDate": "2011-07-15",
+        "rating": "8.2"
+    },
+    {
+        "title": "Dil Chahta Hai",
+        "genre": "Comedy, Drama, Romance",
+        "director": "Farhan Akhtar",
+        "releaseDate": "2001-08-10",
+        "rating": "8.1"
+    },
+    {
+        "title": "Fifty Shades of Grey",
+        "genre": "Drama, Romance, Thriller",
+        "director": "Sam Taylor-Johnson",
+        "releaseDate": "2015-02-13",
+        "rating": "4.1",
+        "description": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+        "cast": [
+            "Dakota Johnson",
+            "Jamie Dornan",
+            "Jennifer Ehle",
+            "Eloise Mumford",
+            "Victor Rasuk",
+            "Luke Grimes",
+            "Marcia Gay Harden"
+        ],
+        "runtime": "125 minutes",
+        "language": "English",
+        "country": "United States"
+    },
+    {
+        "title": "Fifty Shades Darker",
+        "genre": "Drama, Romance",
+        "director": "James Foley",
+        "releaseDate": "2017-02-10",
+        "rating": "4.6",
+        "description": "While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.",
+        "cast": [
+            "Dakota Johnson",
+            "Jamie Dornan",
+            "Eric Johnson",
+            "Eloise Mumford",
+            "Bella Heathcote",
+            "Rita Ora",
+            "Luke Grimes"
+        ],
+        "runtime": "118 minutes",
+        "language": "English",
+        "country": "United States"
+    },
+    {
+        "title": "Fifty Shades Freed",
+        "genre": "Drama, Romance, Thriller",
+        "director": "James Foley",
+        "releaseDate": "2018-02-09",
+        "rating": "4.5",
+        "description": "Anastasia and Christian get married, but Jack Hyde continues to threaten their relationship.",
+        "cast": [
+            "Dakota Johnson",
+            "Jamie Dornan",
+            "Eric Johnson",
+            "Eloise Mumford",
+            "Rita Ora",
+            "Luke Grimes",
+            "Victor Rasuk"
+        ],
+        "runtime": "105 minutes",
+        "language": "English",
+        "country": "United States"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "director": "Frank Darabont",
+        "releaseDate": "1994-09-22",
+        "rating": "9.3"
+    },
+    {
+        "title": "The Godfather",
+        "genre": "Crime, Drama",
+        "director": "Francis Ford Coppola",
+        "releaseDate": "1972-03-24",
+        "rating": "9.2"
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": "Action, Crime, Drama",
+        "director": "Christopher Nolan",
+        "releaseDate": "2008-07-18",
+        "rating": "9.0"
+    },
+    {
+        "title": "Pulp Fiction",
+        "genre": "Crime, Drama",
+        "director": "Quentin Tarantino",
+        "releaseDate": "1994-10-14",
+        "rating": "8.9"
+    },
+    {
+        "title": "Ghostbusters: Afterlife",
+        "genre": "Adventure, Comedy, Fantacy",
+        "director": "Jason Reitman",
+        "releaseDate": "2023-11-19",
+        "rating": "7.0"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "director": "Frank Darabont",
+        "releaseDate": "1994-09-22",
+        "rating": "9.3"
+    },
+    {
+        "title": "The Godfather",
+        "genre": "Crime, Drama",
+        "director": "Francis Ford Coppola",
+        "releaseDate": "1972-03-24",
+        "rating": "9.2"
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": "Action, Crime, Drama",
+        "director": "Christopher Nolan",
+        "releaseDate": "2008-07-18",
+        "rating": "9.0"
+    },
+    {
+        "title": "Pulp Fiction",
+        "genre": "Crime, Drama",
+        "director": "Quentin Tarantino",
+        "releaseDate": "1994-10-14",
+        "rating": "8.9"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "genre": "Adventure, Drama, Fantasy",
+        "director": "Peter Jackson",
+        "releaseDate": "2003-12-17",
+        "rating": "8.9"
+    },
+    {
+        "title": "Forrest Gump",
+        "genre": "Drama, Romance",
+        "director": "Robert Zemeckis",
+        "releaseDate": "1994-07-06",
+        "rating": "8.8"
+    },
+    {
+        "title": "Inception",
+        "genre": "Action, Adventure, Sci-Fi",
+        "director": "Christopher Nolan",
+        "releaseDate": "2010-07-16",
+        "rating": "8.8"
+    },
+    {
+        "title": "Fight Club",
+        "genre": "Drama",
+        "director": "David Fincher",
+        "releaseDate": "1999-10-15",
+        "rating": "8.8"
+    },
+    {
+        "title": "The Matrix",
+        "genre": "Action, Sci-Fi",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "releaseDate": "1999-03-31",
+        "rating": "8.7"
+    },
+    {
+        "title": "Goodfellas",
+        "genre": "Biography, Crime, Drama",
+        "director": "Martin Scorsese",
+        "releaseDate": "1990-09-21",
+        "rating": "8.7"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "genre": "Action, Adventure, Fantasy",
+        "director": "Irvin Kershner",
+        "releaseDate": "1980-06-20",
+        "rating": "8.7"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "genre": "Drama",
+        "director": "Milos Forman",
+        "releaseDate": "1975-11-19",
+        "rating": "8.7"
+    },
+    {
+        "title": "Se7en",
+        "genre": "Crime, Drama, Mystery",
+        "director": "David Fincher",
+        "releaseDate": "1995-09-22",
+        "rating": "8.6"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Jonathan Demme",
+        "releaseDate": "1991-02-14",
+        "rating": "8.6"
+    },
+    {
+        "title": "City of God",
+        "genre": "Crime, Drama",
+        "director": "Fernando Meirelles, Kátia Lund",
+        "releaseDate": "2002-08-30",
+        "rating": "8.6"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "genre": "Drama, War",
+        "director": "Steven Spielberg",
+        "releaseDate": "1998-07-24",
+        "rating": "8.6"
+    },
+    {
+        "title": "The Green Mile",
+        "genre": "Crime, Drama, Fantasy",
+        "director": "Frank Darabont",
+        "releaseDate": "1999-12-10",
+        "rating": "8.6"
+    },
+    {
+        "title": "Interstellar",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "director": "Christopher Nolan",
+        "releaseDate": "2014-11-07",
+        "rating": "8.6"
+    },
+    {
+        "title": "Parasite",
+        "genre": "Comedy, Drama, Thriller",
+        "director": "Bong Joon Ho",
+        "releaseDate": "2019-05-30",
+        "rating": "8.6"
+    },
+    {
+        "title": "The Pianist",
+        "genre": "Biography, Drama, Music",
+        "director": "Roman Polanski",
+        "releaseDate": "2002-09-25",
+        "rating": "8.5"
+    },
+    {
+        "title": "The Departed",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Martin Scorsese",
+        "releaseDate": "2006-10-06",
+        "rating": "8.5"
+    },
+    {
+        "title": "Gladiator",
+        "genre": "Action, Adventure, Drama",
+        "director": "Ridley Scott",
+        "releaseDate": "2000-05-05",
+        "rating": "8.5"
+    },
+    {
+        "title": "The Lion King",
+        "genre": "Animation, Adventure, Drama",
+        "director": "Roger Allers, Rob Minkoff",
+        "releaseDate": "1994-06-24",
+        "rating": "8.5"
+    },
+    {
+        "title": "Back to the Future",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "director": "Robert Zemeckis",
+        "releaseDate": "1985-07-03",
+        "rating": "8.5"
+    },
+    {
+        "title": "The Prestige",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "director": "Christopher Nolan",
+        "releaseDate": "2006-10-20",
+        "rating": "8.5"
+    },
+    {
+        "title": "Whiplash",
+        "genre": "Drama, Music",
+        "director": "Damien Chazelle",
+        "releaseDate": "2014-10-10",
+        "rating": "8.5"
+    },
+    {
+        "title": "The Intouchables",
+        "genre": "Biography, Comedy, Drama",
+        "director": "Olivier Nakache, Éric Toledano",
+        "releaseDate": "2011-11-02",
+        "rating": "8.5"
+    },
+    {
+        "title": "The Usual Suspects",
+        "genre": "Crime, Drama, Mystery",
+        "director": "Bryan Singer",
+        "releaseDate": "1995-08-16",
+        "rating": "8.5"
+    },
+    {
+        "title": "The Departed",
+        "genre": "Crime, Drama, Thriller",
+        "director": "Martin Scorsese",
+        "releaseDate": "2006-10-06",
+        "rating": "8.5"
+    },
+    {
+        "title": "Django Unchained",
+        "genre": "Drama, Western",
+        "director": "Quentin Tarantino",
+        "releaseDate": "2012-12-25",
+        "rating": "8.4"
+    },
+    {
+        "title": "WALL·E",
+        "genre": "Animation, Adventure, Family",
+        "director": "Andrew Stanton",
+        "releaseDate": "2008-06-27",
+        "rating": "8.4"
+    },
+    {
+        "title": "Coco",
+        "genre": "Animation, Adventure, Comedy",
+        "director": "Lee Unkrich, Adrian Molina",
+        "releaseDate": "2017-11-22",
+        "rating": "8.4"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "genre": "Action, Adventure, Drama",
+        "director": "Anthony Russo, Joe Russo",
+        "releaseDate": "2019-04-26",
+        "rating": "8.4"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "genre": "Action, Adventure",
+        "director": "Christopher Nolan",
+        "releaseDate": "2012-07-20",
+        "rating": "8.4"
+    },
+    {
+        "title": "Oldboy",
+        "genre": "Action, Drama, Mystery",
+        "director": "Park Chan-wook",
+        "releaseDate": "2003-11-21",
+        "rating": "8.4"
+    },
+    {
+        "title": "Amélie",
+        "genre": "Comedy, Romance",
+        "director": "Jean-Pierre Jeunet",
+        "releaseDate": "2001-04-25",
+        "rating": "8.0"
+    }
+]
