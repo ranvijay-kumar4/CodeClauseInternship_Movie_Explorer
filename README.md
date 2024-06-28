@@ -20,4 +20,4 @@ HTML, CSS, JavaScript
 
 
 # Deployed Link :
-https://ranvijay-kumar4.github.io/CodeClauseInternship_Movie_Explorer/
+https://ranvijay-kumar4.github.io/Movie_Explorer/
